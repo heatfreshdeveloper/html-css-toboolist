@@ -18,6 +18,10 @@ main {
     margin: 3% 10%;
 }
 
+ul li {
+    list-style: none;
+}
+
 #logo {
     padding: 10px;
 }
