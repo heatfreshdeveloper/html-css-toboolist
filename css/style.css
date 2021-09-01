@@ -4,3 +4,16 @@
     box-sizing: border-box;
 }
 
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    display: inline-block;
+    vertical-align: top;
+    margin: 1px;
+}
+
+#logo {
+    padding: 10px;
+}
