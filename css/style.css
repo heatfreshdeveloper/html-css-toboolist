@@ -41,3 +41,98 @@ main {
     border-radius: 5px;
     font-size: small;
 }
+
+#button3 {
+    display: inline-block;
+    color: white;
+    background-color: rgb(22, 159, 244);
+    padding: 7px;
+    border-radius: 20px;
+    font-size: 10px;
+}
+
+#button4 {
+    display: inline-block;
+    color: white;
+    background-color: rgb(105, 59, 122);
+    padding: 7px;
+    border-radius: 20px;
+    font-size: 10px;
+}
+
+#button5 {
+
+    display: inline-block;
+    color: white;
+    background-color: rgb(107, 180, 214);
+    padding: 7px;
+    margin-top: 5px;
+    border-radius: 20px;
+    font-size: 10px;
+
+}
+
+#button6 {
+
+    display: inline-block;
+    color: white;
+    background-color: rgb(245, 165, 17);
+    padding: 7px;
+    border-radius: 20px;
+    font-size: 10px;
+
+}
+
+#button7 {
+    
+    display: inline-block;
+    color: white;
+    background-color: rgb(211, 83, 158);
+    padding: 7px;
+    border-radius: 20px;
+    font-size: 10px;
+}
+
+
+#button8 {
+    
+    display: inline-block;
+    color: white;
+    background-color: rgb(138, 218, 63);
+    padding: 7px;
+    border-radius: 20px;
+    font-size: 10px;
+}
+
+#button9 {
+    
+    display: inline-block;
+    color: white;
+    background-color: rgb(22, 159, 244);
+    padding: 7px;
+    border-radius: 20px;
+    font-size: 10px;
+}
+
+.title {
+    color: rgb(81, 82, 83);
+    margin-top: 40px;
+    display: inline-block;
+
+}
+
+.arrow {
+    display: inline-block;
+}
+
+
+.flag {
+    display: inline-block;
+    padding-top: 10px;
+}
+
+.paragraph {
+    display: inline-block;
+}
+
+
